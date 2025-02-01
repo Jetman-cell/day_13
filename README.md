@@ -1,5 +1,5 @@
 # day_13
-/* Выведи сообщение STRADA вертикально*/;
+    ___/* Выведи сообщение STRADA вертикально*/;___
 showVerticalMessage("Strada");
 function showVerticalMessage(text) {
     if (text[0] === 's') {
